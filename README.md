@@ -13,7 +13,8 @@ workforce analytics, predictive modeling, and decision support.
 ### 1. Workforce Attrition Prediction
 **Goal:** Predict employee attrition using public workforce data  
 **Skills:** Data cleaning, feature engineering, classification modeling  
-➡️ [View Project](link-goes-here)
+➡️ [View Project] https://github.com/yourusername/workforce-attrition-prediction
+
 
 ## About This Portfolio
 All projects use **public, non-sensitive data** and are designed to show how I
